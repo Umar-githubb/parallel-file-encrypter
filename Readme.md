@@ -17,6 +17,13 @@ process-based parallelism.
 - Modular design
 
 ## How to Run
-1. Compile using `make`
+Go to Ubuntu terminal and run:
+  cd /mnt/c/Users/abuba/OneDrive/Desktop/parallel-file-encrypter
+  make clean
+  make
 2. Run the executable
+  ./encrypt_decrypt test
 3. Provide directory path and action (encrypt/decrypt)
+  directory : "directory_path"
+  action : "encrypt or decrypt"
+
